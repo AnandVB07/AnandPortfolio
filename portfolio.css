@@ -65,7 +65,9 @@ body {
 }
 .bi:hover
 {
-    color: #45a049;
+    /* color: #45a049; */
+    transform: scale(1.05);
+    transition: .1s;
 }
 
 .student {
