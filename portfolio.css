@@ -72,8 +72,8 @@ body {
 }
 
 .student {
-  height: 500px;
-  width: 500px;
+  height: 450px;
+  width: 600px;
   margin-left: 300px;
   border-radius: 50px;
   animation: mymove 4s infinite;
