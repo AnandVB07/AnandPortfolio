@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none">
+<title>Anand VB — Developer Universe</title>
+<desc>A dark cinematic portfolio illustration with floating three-dimensional interface cards and a glowing red orbit.</desc>
+<defs>
+<linearGradient id="bg" x2="1200" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#15101c"/><stop offset=".5" stop-color="#0b0b11"/><stop offset="1" stop-color="#210a13"/></linearGradient>
+<linearGradient id="card" x2="400" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#302c3c"/><stop offset="1" stop-color="#101017"/></linearGradient>
+<linearGradient id="red"><stop stop-color="#ff425d"/><stop offset="1" stop-color="#a50025"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#ed183a" stop-opacity=".35"/><stop offset="1" stop-color="#ed183a" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-40%" y="-40%" width="200%" height="200%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".65"/></filter>
+</defs>
+<rect width="1200" height="460" rx="24" fill="url(#bg)"/>
+<ellipse cx="910" cy="255" rx="340" ry="210" fill="url(#glow)"/>
+<g stroke="#ffffff" opacity=".045"><path d="M0 380H1200M0 410H1200M0 440H1200M650 340L450 460M750 340L680 460M850 340L920 460M950 340L1150 460"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="58" y="54" width="181" height="28" rx="14" fill="#ec2340" fill-opacity=".1" stroke="#ec2340" stroke-opacity=".45"/>
+<circle cx="74" cy="68" r="3" fill="#ff435d"/>
+<text x="87" y="72" font-size="10" letter-spacing="2" fill="#ff7185">DEVELOPER ORIGINALS</text>
+<text x="58" y="151" fill="#fff" font-size="58" font-weight="800" letter-spacing="-2">BUILD.</text>
+<text x="58" y="214" fill="#fff" font-size="58" font-weight="800" letter-spacing="-2">CREATE.</text>
+<text x="58" y="277" fill="#ff3854" font-size="58" font-weight="800" letter-spacing="-2">EVOLVE.</text>
+<text x="61" y="316" fill="#b6b2c1" font-size="15">A digital universe by Anand VB.</text>
+<text x="61" y="342" fill="#797484" font-size="12">AI &amp; DATA SCIENCE / FULL-STACK / DESIGN</text>
+<rect x="60" y="373" width="160" height="35" rx="8" fill="url(#red)"/>
+<text x="81" y="395" fill="white" font-size="11" font-weight="700" letter-spacing="1">EXPLORE MY WORLD ↗</text>
+<ellipse cx="880" cy="286" rx="262" ry="114" transform="rotate(-18 880 286)" stroke="#ef2748" stroke-opacity=".24"/>
+<ellipse cx="880" cy="286" rx="275" ry="120" transform="rotate(-18 880 286)" stroke="#ff5370" stroke-opacity=".09"/>
+<g transform="translate(660 90) rotate(-8 210 130)" filter="url(#shadow)">
+<path d="M0 22L14 12H414V256L400 270H0Z" fill="#060609"/>
+<rect x="0" y="0" width="410" height="258" rx="14" fill="url(#card)" stroke="#555063"/>
+<path d="M1 38H409" stroke="#484252"/>
+<circle cx="19" cy="19" r="4" fill="#ff4b63"/><circle cx="33" cy="19" r="4" fill="#ecbd68"/><circle cx="47" cy="19" r="4" fill="#6ac09b"/>
+<text x="77" y="23" fill="#888292" font-size="10">anand-vb / portfolio</text>
+<text x="27" y="74" fill="#ff516a" font-size="9" letter-spacing="2">FEATURED DEVELOPER</text>
+<text x="26" y="116" fill="white" font-size="34" font-weight="800">ANAND VB.</text>
+<text x="28" y="139" fill="#aaa4b7" font-size="11">Ideas. Intelligence. Experiences.</text>
+<rect x="28" y="162" width="96" height="68" rx="8" fill="#422237" stroke="#67425b"/>
+<rect x="138" y="162" width="96" height="68" rx="8" fill="#202f40" stroke="#374e68"/>
+<rect x="248" y="162" width="133" height="68" rx="8" fill="#28233c" stroke="#50416b"/>
+<text x="40" y="189" fill="#ff6982" font-size="15" font-weight="700">AI</text>
+<text x="40" y="211" fill="#cbc0cb" font-size="9">INTELLIGENT TOOLS</text>
+<text x="150" y="189" fill="#78bbec" font-size="15" font-weight="700">&lt;/&gt;</text>
+<text x="150" y="211" fill="#b7c4d3" font-size="9">WEB EXPERIENCES</text>
+<text x="260" y="189" fill="#b997ff" font-size="15" font-weight="700">✦</text>
+<text x="260" y="211" fill="#c6bddb" font-size="9">PRODUCT DESIGN</text>
+</g>
+<g transform="translate(593 288) rotate(8)" filter="url(#shadow)">
+<rect width="189" height="90" rx="12" fill="#17151f" stroke="#504555"/>
+<rect x="15" y="16" width="32" height="32" rx="8" fill="#ec2340" fill-opacity=".14"/>
+<text x="23" y="38" fill="#ff526c" font-size="17" font-weight="700">{ }</text>
+<text x="59" y="30" fill="white" font-size="11" font-weight="700">CRAFTED IN CODE</text>
+<text x="59" y="46" fill="#8e879d" font-size="9">React · Vite · Motion</text>
+<path d="M17 67H92" stroke="#ef3757" stroke-width="4" stroke-linecap="round"/><path d="M103 67H153" stroke="#514560" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g transform="translate(1008 291) rotate(-12)" filter="url(#shadow)">
+<rect width="133" height="100" rx="12" fill="#211622" stroke="#704157"/>
+<text x="18" y="29" fill="#ff6b85" font-size="10" letter-spacing="1">ALWAYS BUILDING</text>
+<path d="M19 74L39 60L56 65L76 43L96 50L115 32" stroke="#ff4469" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="115" cy="32" r="4" fill="#ff8ba0"/>
+</g>
+<circle cx="632" cy="113" r="5" fill="#ff4867"/><circle cx="1113" cy="119" r="3" fill="#bb97ff"/><circle cx="891" cy="402" r="4" fill="#fb5875"/>
+<text x="1143" y="435" text-anchor="end" fill="#665565" font-size="9" letter-spacing="2">THE NEXT CHAPTER IS YOURS.</text>
+</g></svg>
