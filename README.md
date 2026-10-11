@@ -31,9 +31,18 @@ A Netflix-inspired developer portfolio with a cinematic hero, a comic avatar, an
 | **The skill set** | Animated skills and expertise sections |
 | **The next chapter** | Social links and a contact form |
 
-## 🚀 Featured original · Zenbull
+## 🌌 My developer universe
 
-<img src="./public/assets/zenbull.png" width="760" alt="Decorative Zenbull feature artwork" />
+<a href="https://anand-vb.vercel.app/"><img src="./docs/portfolio-universe.svg" width="100%" alt="Anand VB developer universe: floating 3D-style portfolio cards, dark cinematic theme, and glowing red accents" /></a>
+
+<div align="center">
+
+**Ideas. Intelligence. Experiences.**  
+[Explore the live portfolio ↗](https://anand-vb.vercel.app/)
+
+</div>
+
+## 🚀 Featured original · Zenbull
 
 **An AI-powered algorithmic trading platform** exploring market discovery, paper trading, portfolio workflows, and risk controls.
 
@@ -41,7 +50,7 @@ A Netflix-inspired developer portfolio with a cinematic hero, a comic avatar, an
 
 [View project →](https://github.com/AnandVB07/zenBull) &nbsp; · &nbsp; [Explore demo →](https://zen-bull.vercel.app/)
 
-<sub>Feature artwork is an illustration. Trading workflows are described from the project source.</sub>
+
 
 ## 🗂️ The project collection
 
