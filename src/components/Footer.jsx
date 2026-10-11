@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="site-footer"><a className="brand" href="#home">ANAND VB<span>.</span></a><p>AN ORIGINAL IN THE MAKING.</p><a href="#home">Back to top ↑</a><small>© {new Date().getFullYear()} Anand VB. All rights reserved.</small></footer>}
